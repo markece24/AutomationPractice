@@ -1,0 +1,30 @@
+python 2.7.8 (64msi) - install
+path c:\python c\python\scripts
+
+wxpython 2.8.12.1 (win64 unicode 27) - install
+
+setuptools 28.6.1(tar.gz) - download \ extract (dist folder)
+
+pip 8.1.2(tar.gz) - download \ extract (dist folder)
+
+cmd setuptools <python setup.py install>
+
+cms pip <python setup.py intall
+
+pip install robotframework
+
+pip install robotframework-ride
+
+pip install robotframework-selenium2library
+
+pip install selenium
+
+pip install decorator
+
+pip install docutils
+
+pip install xlrd
+
+pip install xlwt
+
+pip install xlutils
